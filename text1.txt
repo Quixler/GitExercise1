@@ -1,3 +1,5 @@
 This is the original file.
 
 This is modified in branch1
+
+Second modification in branch1
