@@ -1,5 +1,5 @@
 This is the original file.
 
 This is modified in branch1
-
 Second modification in branch1
+This change is from branch2
